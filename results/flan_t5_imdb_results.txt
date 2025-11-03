@@ -1,0 +1,250 @@
+Review 1: At least it's not full of sensless violence or fluff. It's also not very full of thought or a smooth storyline. This story had some potential but the director appears to have lost site of the green. The story is disjointed and goes off in strange<br /><br />directions, to no conclusion. I also don't believe the director spent much time around a golf country club, either. Some of the depictions are absurd. Not very engaging.
+Review 1 true label: negative
+Review 1 zero-shot: negative
+Review 1 few-shot: negative
+Review 1 instruction-based: negative
+Review 2: Murders are occurring in a Texas desert town. Who is responsible? Slight novelties of mystery and racial tensions (the latter really doesn't fit), but otherwise strictly for slasher fans, who will appreciate the gore and nudity, which are two conventional elements for these films.<br /><br />Dana Kimmell (of FRIDAY THE 13TH PART 3 infamy) stars as the bratty quasi-detective teen.<br /><br />*1/2 out of ****<br /><br />MPAA: Rated R for violence and gore, nudity, and some language.
+Review 2 true label: negative
+Review 2 zero-shot: negative
+Review 2 few-shot: negative
+Review 2 instruction-based: negative
+Review 3: What happens when an army of wetbacks, towelheads, and Godless Eastern European commies gather their forces south of the border? Gary Busey kicks their butts, of course. Another laughable example of Reagan-era cultural fallout, Bulletproof wastes a decent supporting cast headed by L Q Jones and Thalmus Rasulala.
+Review 3 true label: negative
+Review 3 zero-shot: negative
+Review 3 few-shot: negative
+Review 3 instruction-based: negative
+Review 4: I´m not surprised that even cowgirls get the blues if this movie is anything to go by. I expected something better from Uma Thurman, which was the reason I suffered my way through this experience in the first place. An awful film with only the music as a redeeming quality. It´s just a shame that we are incapable of giving 0 out of 10 in these reviews. This movie deserves it.
+Review 4 true label: negative
+Review 4 zero-shot: negative
+Review 4 few-shot: negative
+Review 4 instruction-based: negative
+Review 5: This apology for a movie is about absolutely nothing! Rachel Griffiths must have needed the money. The film must have been made on a very low budget, because the lighting was non existent. I made a vow if I ever see Pete Postlesumthingor other I'll commit suicide. I'd be happy to know if there was 1) a plot or 2)a script. My biggest regret is I wasted my time watching this rubbish.
+Review 5 true label: negative
+Review 5 zero-shot: negative
+Review 5 few-shot: negative
+Review 5 instruction-based: negative
+Review 6: I mean really. This is not going to help the Australian film industry to make this kind of film with no values of any kind. Okay, if you're a stoner and have nothing better to do, then maybe. I think film-makers from here should try to show the rest of the world what great talented people we have, and this is not the vehicle for it. Come on now, this film is just tacky.
+Review 6 true label: negative
+Review 6 zero-shot: negative
+Review 6 few-shot: negative
+Review 6 instruction-based: negative
+Review 7: Oh dear me! Rarely has a "horror" film bored me, or made me laugh, as much as this one. After a spirited start with an intriguing premise, it descends into not much more than a slasher flick, with some supernatural and sexual asides. The usually excellent Alice Krige is wasted in this one, and the plot twists are ludicrous. Don't bother unless you're really desperate. Rating: 3/10.
+Review 7 true label: negative
+Review 7 zero-shot: negative
+Review 7 few-shot: negative
+Review 7 instruction-based: negative
+Review 8: What can I say? I ignored the reviews and went to see it myself. Damn the reviews were so right. What a waste of money considering it's budget.<br /><br />Good thing, I went to see Kill Bill after this one.<br /><br />To see a really scary movie, would be Crossroads!<br /><br />Bottom line-- I like "Girl in Gold Boots" better than this crap.
+Review 8 true label: negative
+Review 8 zero-shot: negative
+Review 8 few-shot: negative
+Review 8 instruction-based: negative
+Review 9: No likeable characters (the lead is a combination of the WORST of Woody Allen/Paul Provensa/Reiser) and the contrived scenes (did anyone REALLY think thiat kid on the rollerblades was NOT going to knock the guy down?) were just sickeningly bad.<br /><br />
+Review 9 true label: negative
+Review 9 zero-shot: negative
+Review 9 few-shot: negative
+Review 9 instruction-based: negative
+Review 10: I first saw this movie on MST3K. And although I laughed my posterior off at the jokes, I don't particularly think this movie was all that bad. Sure it was a little hard to understand it is quite obviously low budget, But it had a very Hitchcock-like plot and I can honestly say that when I viewed the non-MST3K version, I was genuinely entertained. This movie is crying out for a Hollywood remake.
+Review 10 true label: negative
+Review 10 zero-shot: negative
+Review 10 few-shot: negative
+Review 10 instruction-based: positive
+Review 11: Oh my god! This movie insults the intelligence of everybody. I mean really, who thinks three kids can fight 30 to 40 ninjas and win. Not to mention the brainless humor thrown in. This film is baaaaaaaaaaaaaad. The movie is an omen, the only thing it's good for is a time killer or unintentional laughs.
+Review 11 true label: negative
+Review 11 zero-shot: negative
+Review 11 few-shot: negative
+Review 11 instruction-based: negative
+Review 12: Please avoid this movie at all costs. This is without a doubt, the worst movie I've ever seen. Most movies have at least one redeeming value. This has none. Totally horrible!
+Review 12 true label: negative
+Review 12 zero-shot: negative
+Review 12 few-shot: negative
+Review 12 instruction-based: negative
+Review 13: Whoever gave this movie rave reviews needs to see more movies.<br /><br />A loser takes his camera and photographs his mental family. The movie is filled with idiots and includes live "teabagging". That should sum it all up for you.<br /><br />Do not waste your time. You may want to watch the entire movie in the hopes that it gets better as it goes on - it doesn't!
+Review 13 true label: negative
+Review 13 zero-shot: negative
+Review 13 few-shot: negative
+Review 13 instruction-based: negative
+Review 14: A somewhat dull made for tv movie which premiered on the TBS cable station. Antonio and Janine run around chasing a killer computer virus and...that's about it. For trivia buffs this will be noted as debuting the same weekend that the real life 'Melissa' virus also made it's debut in e-mail inboxes across the world.
+Review 14 true label: negative
+Review 14 zero-shot: negative
+Review 14 few-shot: negative
+Review 14 instruction-based: negative
+Review 15: I didn't know it was possible to release a movie this bad. The labeling sounded so promising, but you would think that with a cast of 20, at least one of them would be able to act. My wife left me and went to bed after the first 20 minutes. She made a wise decision.
+Review 15 true label: negative
+Review 15 zero-shot: negative
+Review 15 few-shot: negative
+Review 15 instruction-based: negative
+Review 16: You've heard it said to live every moment as if it's your last? Whether it's your last day or not, I beg you not to waste any part of it watching this! Nichole Hiltz provides some nice moments of eye candy (that alas, stays wrapped) and David DeLuise shows why he should stick to the small screen or dog food commercials. A shallow, unrealistic plot with dreadful dialogue means there is no "Art" in the "Art of Revenge".<br /><br />
+Review 16 true label: negative
+Review 16 zero-shot: negative
+Review 16 few-shot: negative
+Review 16 instruction-based: negative
+Review 17: Would someone tell shaq to stick to what he is good at basketball. This movie was not even entertaining on a stupid level. In this movie shaq plays a genie who lives in a boom box is that not orginal a genie in a boom box instead of a lamp. He is supposed to help a little boy played by the equally annoying francais cappra. This movie had the most flimsy storyline since water world, the acting was awful and I think that anyone who likes this flim would be afraid to admit it.
+Review 17 true label: negative
+Review 17 zero-shot: negative
+Review 17 few-shot: negative
+Review 17 instruction-based: negative
+Review 18: People, please don't bother to watch this movie! This movie is bad! It's totally waste of time. I don't see any point here. It's a Stupid film with lousy plot and the acting is poor. I rather get myself beaten than watch this movie ever again.
+Review 18 true label: negative
+Review 18 zero-shot: negative
+Review 18 few-shot: negative
+Review 18 instruction-based: negative
+Review 19: Collusion Course is even worse than the typical "evil white male corporate capitalist" movie of the week. This movie is less pleasant than a toothache. Jay Leno can act. He's good in his underrated debut movie, The Silverbears, in which he gives a performance consist with the demands of his character. This movie is so bad Leno's character, a sanctimonious buffoon, is less annoying than Morita's character, a sanctimonious fool.
+Review 19 true label: negative
+Review 19 zero-shot: negative
+Review 19 few-shot: negative
+Review 19 instruction-based: negative
+Review 20: A truly unpleasant film. While Rick Baker's special effects are quite impressive (if stomach-turning), it has no other redeeming features. Like many 70s movies, it leaves you feeling as if you need to take a long shower, and scrub the slime off of yourself. The characters are uniformly unpleasant, and plot makes no sense.
+Review 20 true label: negative
+Review 20 zero-shot: negative
+Review 20 few-shot: negative
+Review 20 instruction-based: negative
+Review 21: I was really looking forward to this movie based on the previews and press it received, but after viewing it I was terribly disappointed. Slums is a totally unfunny film mixed with a Todd Solondz type of disturbing family reality sans Todd's brand of humor. The story drags along and each scene is worse than the last. Maybe I missed the point, but if this film is an example of every girl's growing up experience I am glad to be a man.
+Review 21 true label: negative
+Review 21 zero-shot: negative
+Review 21 few-shot: negative
+Review 21 instruction-based: negative
+Review 22: Boring children's fantasy that gives Joan Plowright star billing but little to do. Sappy kids pursue their dreams. Frankie wants to be a ballerina and a baseball player (yuk) while best-friend Hazel runs for mayor---she's 13! Totally pedestrian in every way, plus the added disadvantage of syrupy performances by the girls as well as the baseball boys. Certainly a lesser effort for Showtime---no limits?
+Review 22 true label: negative
+Review 22 zero-shot: negative
+Review 22 few-shot: negative
+Review 22 instruction-based: negative
+Review 23: No reason to bother renting this flick. From the opening credits on, I knew I was in trouble.<br /><br />It was filmed as though it was a soft porn movie, but there really isn't anything erotic about it. The look into the world of sex addiction is intriguing, but only to a point.<br /><br />Boring sex scenes, bad plot, and cameos by Ed Begley Jr. and Rosanna Arquette aren't enough to save this film.
+Review 23 true label: negative
+Review 23 zero-shot: Negative
+Review 23 few-shot: negative
+Review 23 instruction-based: negative
+Review 24: Sophia Loren plays Aida, in one of the worst films of all time. She can't lipsync. In terms of production values, the film is so bad, that at one point, while Loren is mouthing "O Patria Mia," she leans onto what looks to be a stone wall for support, and the canvas set billows and shakes.
+Review 24 true label: negative
+Review 24 zero-shot: negative
+Review 24 few-shot: negative
+Review 24 instruction-based: negative
+Review 25: This film is so much of a rip-off of the masterpeice "demons" and thats the only thing that makes the movie worth watching. The acting is terrible,the action scenes are speeded up,the script is almost painful and budget non existent.<br /><br />If you think this film is good then you havn't seen a real horror film, skip this and get a copy of the movie demons.
+Review 25 true label: negative
+Review 25 zero-shot: negative
+Review 25 few-shot: negative
+Review 25 instruction-based: negative
+Review 26: this is the best sci-fi that I have seen in my 29 years of watching sci-fi. I also believe that Dark Angel will become a cult favorite. The action is great but Jessica Alba is the best and most gorgeous star on TV today.
+Review 26 true label: positive
+Review 26 zero-shot: positive
+Review 26 few-shot: positive
+Review 26 instruction-based: positive
+Review 27: Although it has been remade several times, this movie is a classic if you are seeing it for the first time. Creative dialog, unique genius in the final scene, it deserves more credit than critics have given it. Highly recommended, one of the best comedies of recent years
+Review 27 true label: positive
+Review 27 zero-shot: positive
+Review 27 few-shot: positive
+Review 27 instruction-based: positive
+Review 28: i'm not sure if it is available worldwide - but if anyone who's deciding what is supposed to be put on videotapes and distributed in video clubs - is reading this - please , please buy it! (if I wasn't clear: GET THE MOVIE INTO VIDEOSTORES!)<br /><br />can't be explained - must see!
+Review 28 true label: positive
+Review 28 zero-shot: positive
+Review 28 few-shot: positive
+Review 28 instruction-based: positive
+Review 29: if you like gangster type of movies, then this is the first one you should buy or at least rent, Al Pacino his performance is top notch. and the story is classic!! 10 / 10 !!!! Why isn't this movie in the TOP 250 list??
+Review 29 true label: positive
+Review 29 zero-shot: positive
+Review 29 few-shot: positive
+Review 29 instruction-based: positive
+Review 30: Not the most successful television project John Cleese ever did, "Strange Case" has the feel of a first draft that was rushed into production before any revisions could be made. There are some silly ideas throughout and even a few clever ones, but the story as a whole unfortunately doesn't add up to much.<br /><br />Arthur Lowe is a hoot, though, as Dr. Watson, bionic bits and all. "Good Lord."
+Review 30 true label: positive
+Review 30 zero-shot: negative
+Review 30 few-shot: negative
+Review 30 instruction-based: negative
+Review 31: I love this movie, Jouvet, Arletty, Blier, Carné... almost everything has already been said about the movie, but there is one detail I'd like to shed some light onto: no footage of the real, still standing, Hôtel du Nord (is it still? I heard it was to be demolished...) has been used for the movie - the whole scene has been rebuilt on set, the main reason being that they could not stop the traffic on the St Martin canal for several weeks.
+Review 31 true label: positive
+Review 31 zero-shot: positive
+Review 31 few-shot: positive
+Review 31 instruction-based: positive
+Review 32: I've watched this movie twice, and I plan to see it again. It is the movie that puts you in the director's place, regarding his romantic relations and the political situation in Israel. It also makes me cry because of remembering the wonderful time it was, and the horrible murder described there. It is really worth watching.
+Review 32 true label: positive
+Review 32 zero-shot: positive
+Review 32 few-shot: positive
+Review 32 instruction-based: positive
+Review 33: This Film was really eye-opening. I have seen this film several times. First, when I was four and I actually remembered it and then when I was 12. The whole message that the director is conveying is for everyone to wake up and not make the mistake of leaving God out of our everyday lives or just Plain going the extra mile to insult him.<br /><br />A great Movie for Non-believers and Believers alike!
+Review 33 true label: positive
+Review 33 zero-shot: positive
+Review 33 few-shot: positive
+Review 33 instruction-based: positive
+Review 34: Because of all the negative reviews of this film I almost didn't watch it. However, I was pleasantly surprised that it was a fairly enjoyable horror movie. The acting wasn't great - apart from the wonderful Alice Krige - but some of the dialogue ("Just consider yourself lunch.") was quite amusing.<br /><br />On the whole an above average Stephen King effort - 7/10.
+Review 34 true label: positive
+Review 34 zero-shot: positive
+Review 34 few-shot: positive
+Review 34 instruction-based: positive
+Review 35: This is the definite Lars von Trier Movie, my favorite, I rank it higher than "Breaking the waves" or the latest "Dancer in the Dark"... I simply love the beauty of the picture...the framing is so original; acting is wonderful, A MUST SEE.
+Review 35 true label: positive
+Review 35 zero-shot: positive
+Review 35 few-shot: positive
+Review 35 instruction-based: positive
+Review 36: "Fear of a Black Hat" is a superbly crafted film. I was laughing almost continuously from start to finish. If you have the means, I highly recommend viewing this movie It is, by far, the funniest movie I have had the pleasure to experience. Grab your stuff!
+Review 36 true label: positive
+Review 36 zero-shot: positive
+Review 36 few-shot: positive
+Review 36 instruction-based: positive
+Review 37: The romance of the movie, which is also its main theme, is good and nicely presented. However, the surrounding of the love story is too lyric, graphical and unrealistic. Even worse, the psychology of the main character is weird and incomprehensible, exactly like the end of the movie. Don't hesitate to watch this movie, if it attracted your interest, but don't expect too much of it either.
+Review 37 true label: positive
+Review 37 zero-shot: negative
+Review 37 few-shot: negative
+Review 37 instruction-based: negative
+Review 38: As I was watching this film on video last night, I kept getting these tingles that told me this one will endure. I've a feeling I'll be watching this again and again for years to come.<br /><br />It's got all the timeless qualities you could ask for in a story/film. And even though some cultural references are obscure for me, a Western viewer, at the core this is a universal tale.
+Review 38 true label: positive
+Review 38 zero-shot: positive
+Review 38 few-shot: positive
+Review 38 instruction-based: positive
+Review 39: This is according to me a quite bizarre movie with a lot of humor in it. I wouldn't say that it is very scary, but more fun I guess. That is if you like horror movies. Scarecrow kind of remembered me of "Children of the corn", but still not. If you compare these two movies this is much more fun to watch =)
+Review 39 true label: positive
+Review 39 zero-shot: positive
+Review 39 few-shot: positive
+Review 39 instruction-based: positive
+Review 40: Beautiful to watch, but what would be the first thing you would do the moment YOU discovered Atlantis? Explore it! Here was a golden opportunity to take viewers someplace special. Instead, Disney reverted to the same old formula story telling.
+Review 40 true label: positive
+Review 40 zero-shot: positive
+Review 40 few-shot: negative
+Review 40 instruction-based: negative
+Review 41: All this talk about this being a bad movie is nonsense. As a matter of fact this is the best movie I've ever seen. It's an excellent story and the actors in the movie are some of the best. I would not give criticism to any of the actors. That movie is the best and it will always stay that way.
+Review 41 true label: positive
+Review 41 zero-shot: positive
+Review 41 few-shot: positive
+Review 41 instruction-based: positive
+Review 42: Busy Phillips put in one hell of a performance, both comedic and dramatic. Erika Christensen was good but Busy stole the show. It was a nice touch after The Smokers, a movie starring Busy, which wasnt all that great. If Busy doesnt get a nomination of any kind for this film it would be a disaster. Forget Mona Lisa Smile, see Home Room.
+Review 42 true label: positive
+Review 42 zero-shot: negative
+Review 42 few-shot: positive
+Review 42 instruction-based: positive
+Review 43: This is the kind of film you want to see with a glass of wine, the fire on, and with your feet up. It doesn't require that much brain-power to follow, so is very good after a long day. I would say it is very unrealistic - if you expecting anything serious, then don't bother, but it is very funny. Just the thought that a businessman would go so far as to agree to live in a slum for a while, and then actually get to enjoy it... I would definitely recommend it.
+Review 43 true label: positive
+Review 43 zero-shot: positive
+Review 43 few-shot: positive
+Review 43 instruction-based: positive
+Review 44: I got the first Bill and Ted movie for christmas and I had to get the second when I saw it in a store. This one was (I think) just as funny as the first but a much wierder story. It was funny how they had their own personnal hell and how they had to play death. The funny thing was that they played him in stupid little games like clue. The only thing I'd change is Station and Death being in the band but other than that it was great.
+Review 44 true label: positive
+Review 44 zero-shot: positive
+Review 44 few-shot: positive
+Review 44 instruction-based: positive
+Review 45: A wonderful film by Powell and Pressburger, whose work I now want to explore more. The film is about what we perceive as real and what is real, and how the two can be so difficult to distinguish from one another. Beautifully shot and acted, although David Niven doesn't seem to be 27 years old, as his character claims to be. Fun to see a very young Richard Attenborough. This film made me think, while I was watching it, and afterwards.
+Review 45 true label: positive
+Review 45 zero-shot: positive
+Review 45 few-shot: positive
+Review 45 instruction-based: positive
+Review 46: This has to be one of my favourite movies of all time. The dialogue, with the constant use of puns is very tight, the cast are superb, and the plot is highly original.<br /><br />Don't take my word for it - watch this movie and enjoy it for yourself.
+Review 46 true label: positive
+Review 46 zero-shot: positive
+Review 46 few-shot: positive
+Review 46 instruction-based: positive
+Review 47: This film takes you on one family's impossible journey, and makes you feel every step of their odyssey. Beautifully acted and photographed, heartbreakingly real. Its last line, with its wistful hope, is one of the more powerful in memory.
+Review 47 true label: positive
+Review 47 zero-shot: positive
+Review 47 few-shot: positive
+Review 47 instruction-based: positive
+Review 48: I grew up with this as my all-time favorite film. The special effects are incredible for the era, and won awards. I can remember the dialogue as if I'd heard it yesterday. It is simply a great, timeless adventure. The music is by Miklos Rosza, who is cinema history's best. Sabu is the Thief. Conrad Veidt is the grand villain. I have a copy within reach, for the next trip down memory lane. Whoa there! Rex Ingram wants out of his genii bottle!
+Review 48 true label: positive
+Review 48 zero-shot: positive
+Review 48 few-shot: positive
+Review 48 instruction-based: positive
+Review 49: I just saw this movie the other day when I rented it, and I thought this was going to be just another movie with a girl trying to prove a point, but Diane joined boxing because she wanted to. I thought this movie was good. I gave it a 8/10. That's how good it is. Plus a movie with Michelle Rodriguez is always good. Even is she's been in only six.
+Review 49 true label: positive
+Review 49 zero-shot: positive
+Review 49 few-shot: positive
+Review 49 instruction-based: positive
+Review 50: Branagh is one of the few who understands the difference between a film and a play. Hamlet is probably the most faithful adaptation of Shakespeare to a film and yet is a very dynamic film, almost an action thriller. The scene of Hamlet's meeting with his father's ghost won't leave your mind.
+Review 50 true label: positive
+Review 50 zero-shot: positive
+Review 50 few-shot: negative
+Review 50 instruction-based: positive
